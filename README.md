@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
-<h3 align="center">🧠 I enjoy turning ideas into working systems and improving them step by step. 🎯 I focus on clarity, usability, and writing code that’s easy to maintain.</h3>
+<h3 align="center">🧠 I enjoy turning ideas into working systems and improving them step by step. 
+  🎯 I focus on clarity, usability, and writing code that’s easy to maintain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heroxen&label=Profile%20views&color=0e75b6&style=flat" alt="heroxen" /> </p>
 
