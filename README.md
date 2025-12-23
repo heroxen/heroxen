@@ -1,17 +1,29 @@
-## Hi there 👋
-hello guyes
+## 👋 Hi, I’m Hardik Sharma
 
-<!--
-**heroxen/heroxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I enjoy turning ideas into working systems and improving them step by step.
+🎯 I focus on clarity, usability, and writing code that’s easy to maintain.
 
-Here are some ideas to get you started:
+🚀 What I’ve worked on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Productivity and life-management applications
+
+AI-based automation and content systems
+
+Dashboards, authentication flows, and APIs
+
+🛠️ Tools & Technologies
+
+⚛️ React, HTML, CSS, Tailwind
+
+🌐 Node.js, Express
+
+🗄️ MongoDB, Supabase
+
+🔧 Git, GitHub, REST APIs
+
+📫 Reach me
+
+📧 Email: add your email
+💼 LinkedIn: add your link
+
+Mindset: Stay curious. Build consistently. Improve relentlessly 🚀
