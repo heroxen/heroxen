@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hardik-sharma-9a3bb9373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hardik-sharma-9a3bb9373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://fb.com/hardik_sharma456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hardik_sharma456" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hardik_sharma456?igsh=mxu5emn6yw1tag5haq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hardik_sharma456?igsh=mxu5emn6yw1tag5haq==" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hardik_sharma456?igsh=MXU5emN6YW1taG5haQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hardik_sharma456?igsh=mxu5emn6yw1tag5haq==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/heroxen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heroxen" height="30" width="40" /></a>
 </p>
 
