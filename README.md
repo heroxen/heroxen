@@ -13,7 +13,7 @@
 
 - 🤝 I'm Exploring Different **Dashboards, Authentication flows, and APIs**
 
-- 👨‍💻 LinkedIn [https://www.linkedin.com/in/hardik-sharma-9a3bb9373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/hardik-sharma-9a3bb9373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 LinkedIn [www.linkedin.com/in/hardik-sharma-9a3bb9373](www.linkedin.com/in/hardik-sharma-9a3bb9373)
 
 - 📝 Experience with Database [MongoDB, Supabase , SQL](MongoDB, Supabase , SQL)
 
